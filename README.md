@@ -1,0 +1,4 @@
+# ES_Project
+ULTRASOUND IMAGING SYSTEM FOR DIAGNOSTIC APPLICATIONS
+Ultrasound Imaging is a diagnostic imaging technique using ultrasound waves. We use it to visualize subcutaneous body structures like tendons, muscles, joints, vessels and internal organs such as heart, kidney etc for possible pathology or lesions. It is possible to perform both diagnosis and therapeutic procedures using ultrasound imaging. Ultrasound Imaging uses the interaction of sound waves with living tissue and produces an image of the tissue or determines the velocity of a moving tissue, primarily blood. The real-time images are analyzed to obtain structural and functional information from the target organ.
+Diagnostic ultrasound is an imaging method that uses high-frequency sound waves to produce images of structures within the body. Images can provide valuable information for diagnosing and treating a variety of diseases.
